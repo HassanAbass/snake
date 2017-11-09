@@ -1,3 +1,4 @@
+var new_var=true;
 var ipad = navigator.userAgent.match(/iPad/i) != null;
 
 if (ipad) {
